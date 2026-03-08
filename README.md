@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=27AE60&center=true&vCenter=true&width=900&lines=Student+Mental+Health+Analysis;EDA+%7C+Chi-Square+Test+%7C+Logistic+Regression;Does+CGPA+Affect+Mental+Health%3F" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3500&pause=1200&color=00FF9C&center=true&vCenter=true&width=1100&height=120&lines=Student+Mental+Health+Analysis;Exploratory+Data+Analysis+(EDA);Chi-Square+Test+%7C+Logistic+Regression;Does+CGPA+Impact+Student+Mental+Health%3F"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
