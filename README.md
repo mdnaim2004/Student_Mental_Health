@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=42&pause=1000&duration=2600&color=00C2A8&center=true&vCenter=true&width=1100&height=110&lines=Student+Mental+Health+Analysis;EDA+%7C+Chi-Square+%7C+Logistic+Regression;Analyzing+the+Relationship+Between+CGPA+and+Mental+Health"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&duration=2500&color=8A2BE2&center=true&vCenter=true&width=1100&height=110&lines=Student+Mental+Health+Analysis;Statistical+Analysis+%26+Predictive+Modeling;Does+CGPA+Influence+Mental+Health%3F"
       alt="Typing SVG"
     />
   </a>
